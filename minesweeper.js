@@ -28,8 +28,7 @@ var board = {
         isMine:false,
         hidden:true
 
-        }
-      },
+        },
       {//5
       row: 1,
       col: 1,
