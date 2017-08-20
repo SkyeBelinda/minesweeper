@@ -44,7 +44,7 @@ var board = {
    {//8
    row: 2,
  col: 1,
- isMine: false
+ isMine: true
   },
     {//9
       row: 2,
