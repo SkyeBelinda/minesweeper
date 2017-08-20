@@ -6,50 +6,59 @@ var board = {
     {//1
       row: 0,
       col: 0,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
     {//2
       row: 0,
       col: 1,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
     {//3
       row:0,
       col: 2,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
 
       {//4
         row: 1,
         col: 0,
-        isMine: false
+        isMine:false,
+        hidden:true
 
         }
       },
       {//5
       row: 1,
       col: 1,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
     {//6
       row: 1,
       col: 2,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
     {//7
     row: 2,
     col: 0,
-    isMine: false
+    isMine:false,
+    hidden:true
   },
    {//8
    row: 2,
  col: 1,
- isMine: true
+ isMine:true,
+ hidden:false
   },
     {//9
       row: 2,
       col: 2,
-      isMine: false
+      isMine:false,
+      hidden:true
     },
 ]
   }
